@@ -28,10 +28,10 @@ Comments and Feedback welcome - http://www.ibuildrockets.com/
 
 Files -
 
-    Master_Word_List.xlsx - Excel file with lists of both 'Good' and 'Bad' words
-    Borrow_A_Feeling.ino - Code
-    wordList.h - Include -  List of 'Good' and 'Bad' words
-    stringTable.h - Include - String Table to reference words
+   <b>Master_Word_List.xlsx</b> - Excel file with lists of both 'Good' and 'Bad' words<br>
+   <b>Borrow_A_Feeling.ino</b> - Code<br>
+   <b>wordList.h</b> - Include -  List of 'Good' and 'Bad' words<br>
+   <b>stringTable.h</b> - Include - String Table to reference words<br>
 
 Contest - https://hackaday.io/contest/3432-trinket-everyday-carry-contest
 
