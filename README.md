@@ -20,12 +20,6 @@ on an LCD screen for all to see.
 
 No longer will I be left struggling with how I feel - the HAD Trinket will tell me!
 
-This code is being released as Attribution-ShareAlike 2.5 Generic (CC BY-SA 2.5)
-
-http://creativecommons.org/licenses/by-sa/2.5/
-
-Comments and Feedback welcome - http://www.ibuildrockets.com/
-
 Files -
 
    <b>Master_Word_List.xlsx</b> - Excel file with lists of both 'Good' and 'Bad' words<br>
@@ -36,3 +30,9 @@ Files -
 Contest - https://hackaday.io/contest/3432-trinket-everyday-carry-contest
 
 Entry - https://hackaday.io/project/3600-can-i-borrow-a-feeling
+
+Comments and Feedback welcome - http://www.ibuildrockets.com/
+
+This code is being released as Attribution-ShareAlike 2.5 Generic (CC BY-SA 2.5)
+
+http://creativecommons.org/licenses/by-sa/2.5/
