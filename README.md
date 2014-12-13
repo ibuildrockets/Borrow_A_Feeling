@@ -31,6 +31,11 @@ Contest - https://hackaday.io/contest/3432-trinket-everyday-carry-contest
 
 Entry - https://hackaday.io/project/3600-can-i-borrow-a-feeling
 
+Test Setup running on Arduino Uno - ready to be transferred to Trinket Pro
+
+![Test Setup](https://github.com/ibuildrockets/Borrow_A_Feeling/raw/master/images/BreadboardProto01_Small.jpg)
+
+
 Comments and Feedback welcome - http://www.ibuildrockets.com/
 
 This code is being released as Attribution-ShareAlike 2.5 Generic (CC BY-SA 2.5)
