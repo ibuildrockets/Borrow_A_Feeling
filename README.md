@@ -36,6 +36,14 @@ Test Setup running on Arduino Uno - ready to be transferred to Trinket Pro
 
 ![Test Setup](https://github.com/ibuildrockets/Borrow_A_Feeling/raw/master/images/PrototypeUno_Small_io.jpg)
 
+All the laser cut parts etc.
+
+![Test Setup](https://github.com/ibuildrockets/Borrow_A_Feeling/raw/master/images/Parts01_Small_io.jpg)
+
+Dry fit of front screen
+
+![Test Setup](https://github.com/ibuildrockets/Borrow_A_Feeling/raw/master/images/DryFitScreen_Small_io.jpg)
+
 
 Comments and Feedback welcome - http://www.ibuildrockets.com/
 
