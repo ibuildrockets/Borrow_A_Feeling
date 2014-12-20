@@ -33,15 +33,12 @@ Contest - https://hackaday.io/contest/3432-trinket-everyday-carry-contest
 Entry - https://hackaday.io/project/3600-can-i-borrow-a-feeling
 
 Test Setup running on Arduino Uno - ready to be transferred to Trinket Pro
-
 ![Test Setup](https://github.com/ibuildrockets/Borrow_A_Feeling/raw/master/images/PrototypeUno_Small_io.jpg)
 
 All the laser cut parts etc.
-
 ![Test Setup](https://github.com/ibuildrockets/Borrow_A_Feeling/raw/master/images/Parts01_Small_io.jpg)
 
 Dry fit of front screen
-
 ![Test Setup](https://github.com/ibuildrockets/Borrow_A_Feeling/raw/master/images/DryFitScreen_Small_io.jpg)
 
 
