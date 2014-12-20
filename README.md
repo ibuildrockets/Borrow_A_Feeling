@@ -26,6 +26,7 @@ Files -
    <b>Borrow_A_Feeling.ino</b> - Code<br>
    <b>wordList.h</b> - Include -  List of 'Good' and 'Bad' words<br>
    <b>stringTable.h</b> - Include - String Table to reference words<br>
+   <b>FeelingsBox_Final.cdr</b> - CorelDRAW file - For the laser cut box
 
 Contest - https://hackaday.io/contest/3432-trinket-everyday-carry-contest
 
