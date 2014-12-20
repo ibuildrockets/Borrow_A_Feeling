@@ -33,7 +33,7 @@ Entry - https://hackaday.io/project/3600-can-i-borrow-a-feeling
 
 Test Setup running on Arduino Uno - ready to be transferred to Trinket Pro
 
-![Test Setup](https://github.com/ibuildrockets/Borrow_A_Feeling/raw/master/images/BreadboardProto01_Small.jpg)
+![Test Setup](https://github.com/ibuildrockets/Borrow_A_Feeling/raw/master/images/PrototypeUno_Small_io.jpg)
 
 
 Comments and Feedback welcome - http://www.ibuildrockets.com/
