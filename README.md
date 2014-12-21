@@ -44,6 +44,6 @@ Dry fit of front screen<br>
 
 Comments and Feedback welcome - http://www.ibuildrockets.com/
 
-This code is being released as Attribution-ShareAlike 2.5 Generic (CC BY-SA 2.5)
+The code & box design is being released as Attribution-ShareAlike 2.5 Generic (CC BY-SA 2.5)
 
 http://creativecommons.org/licenses/by-sa/2.5/
